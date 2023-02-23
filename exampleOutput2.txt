@@ -1,0 +1,13 @@
+Enter the number of guests: 5
+5 guests have arrived and joined the queue.
+Guest 1 enters the showroom.
+Guest 1 leaves and tells the next guest to enter.
+Guest 5 enters the showroom.
+Guest 5 leaves and tells the next guest to enter.
+Guest 3 enters the showroom.
+Guest 3 leaves and tells the next guest to enter.
+Guest 4 enters the showroom.
+Guest 4 leaves and tells the next guest to enter.
+Guest 2 enters the showroom.
+Guest 2 leaves.
+All guests have seen the vase.
