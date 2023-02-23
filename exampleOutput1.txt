@@ -1,0 +1,52 @@
+Guest 1 is entering the labyrinth.
+Guest 1 is leaving the cupcake.
+Guest 1 is entering the labyrinth.
+Guest 1 is leaving the cupcake.
+Guest 5 is entering the labyrinth.
+Guest 5 is eating the cupcake.
+Guest 5 is entering the labyrinth.
+Guest 5 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 5 is eating the new cupcake.
+Guest 1 is entering the labyrinth.
+Guest 1 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 1 is eating the new cupcake.
+Guest 5 is entering the labyrinth.
+Guest 5 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 5 is leaving the new cupcake.
+Guest 5 is entering the labyrinth.
+Guest 5 is eating the cupcake.
+Guest 4 is entering the labyrinth.
+Guest 4 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 4 is eating the new cupcake.
+Guest 1 is entering the labyrinth.
+Guest 1 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 1 is leaving the new cupcake.
+Guest 3 is entering the labyrinth.
+Guest 3 is eating the cupcake.
+Guest 1 is entering the labyrinth.
+Guest 1 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 1 is eating the new cupcake.
+Guest 5 is entering the labyrinth.
+Guest 5 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 5 is eating the new cupcake.
+Guest 1 is entering the labyrinth.
+Guest 1 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 1 is eating the new cupcake.
+Guest 4 is entering the labyrinth.
+Guest 4 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 4 is leaving the new cupcake.
+Guest 3 is entering the labyrinth.
+Guest 3 is eating the cupcake.
+Guest 3 is entering the labyrinth.
+Guest 3 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 3 is leaving the new cupcake.
+Guest 4 is entering the labyrinth.
+Guest 4 is eating the cupcake.
+Guest 4 is entering the labyrinth.
+Guest 4 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 4 is eating the new cupcake.
+Guest 2 is entering the labyrinth.
+Guest 2 is requesting a new cupcake... servants bring him a new cupcake.
+Guest 2 is eating the new cupcake.
+All guests have entered the labyrinth.
+Guest 3 is taking the cake at the exit.
